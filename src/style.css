@@ -1,5 +1,26 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(17, 176, 126);
+     
+}
+
+
+
+.card-value{
+  font-size: 70px;
+  margin: auto;
+}
+
+.suit{
+   font-size: 60px; 
+    
+}
+.top-suit{
+  margin-top: -20px;
+}
+
+.bottom-suit{
+  margin-bottom: -20px;
+    transform: rotate(180deg); 
 }
